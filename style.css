@@ -1,0 +1,23 @@
+.corpo {
+  max-width: 100px;
+  max-height: 150px;
+
+  min-width: 100px;
+  min-height: 150px;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-image: url(./assets/fundo-hub-filmes.png);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-color: #121214;
+}
+
+section {
+  color: white;
+}
