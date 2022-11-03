@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 
-ul {
-    list-style: none;
-}
 
+ul {
+  list-style: none;
+}
 /* Alterando o tamanho da Imagem */
 
 .corpo {
@@ -20,9 +20,7 @@ ul {
 /* Fim */
 
 
-ul {
-    list-style: none;
-}
+
 
 body {
     background-image: url(./assets/fundo-hub-filmes.png);
@@ -64,10 +62,11 @@ header div img {
   width: 100%;
   border-radius: 50%;
 
+  
 }
 
 main {
-  max-width: 580px;
+  max-width: 520px;
   width: 90%;
   margin: 32px auto;
 
@@ -82,6 +81,7 @@ section {
     padding-top: 4px;
     border-radius: 10px;
 
+    
 }
 
 section div {
@@ -89,15 +89,20 @@ section div {
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
+
+  
 }
 
 section h2 {
   letter-spacing: -0.47px;
+  
 }
 
 section p {
   letter-spacing: -0.18px;
   color: #C1C1C1;
+
+  
 }
 
 section ul {
@@ -106,10 +111,13 @@ section ul {
   gap: 16px;
 
   margin-top: 24px;
+  
 }
 
 section ul li {
   transition: transform .3s
+  
+
 }
 
 section ul li:hover {
@@ -119,6 +127,8 @@ section ul li:hover {
 .film-list  img {
     width: 100px;
     border-radius: 8px;
+
+
 }
 
 /* animation */
