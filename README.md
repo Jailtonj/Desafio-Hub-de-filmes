@@ -6,7 +6,7 @@
 
 Projeto construído após o fim do evento Next Level Week da Rocketseat, ele foi deixado como um desafio.
 
-[Clique aqui para acessar] (https://jailtonj.github.io/hub-de-filmes)
+[Clique aqui para acessar] (https://jailtonj.github.io/Hub-de-filmes/)
 
 ## 🛠 Tecnologias
 
